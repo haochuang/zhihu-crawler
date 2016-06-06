@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/syaning/zhihu-crawler#readme",
   "dependencies": {
+    "debug": "^2.2.0",
     "mongodb": "^2.1.21",
     "zhihu-api": "^0.6.1"
   }
