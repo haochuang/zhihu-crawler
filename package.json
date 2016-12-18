@@ -1,7 +1,7 @@
 {
   "name": "zhihu-crawler",
-  "version": "0.0.1",
-  "description": "Crawlers for zhihu.",
+  "version": "0.1.0",
+  "description": "Crawlers for zhihu",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,8 +26,6 @@
   },
   "homepage": "https://github.com/syaning/zhihu-crawler#readme",
   "dependencies": {
-    "debug": "^2.2.0",
-    "mongodb": "^2.1.21",
-    "zhihu-api": "^0.7.0"
+    "zhihu-api": "^2.2.0"
   }
 }
