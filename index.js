@@ -1,6 +1,3 @@
-const api = require('./lib/common/api')
+const users = require('./lib/crawler/users')
 
-api.user('zhihuadmin')
-  .profile()
-  .then(console.log)
-  .catch(console.trace)
+users.start('zhouyuan')
