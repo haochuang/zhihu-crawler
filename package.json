@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/syaning/zhihu-crawler#readme",
   "dependencies": {
+    "amqplib": "^0.5.1",
+    "ioredis": "^3.1.1",
     "mongodb": "^2.2.16",
     "zhihu-api": "^2.3.0"
   }
